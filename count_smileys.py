@@ -27,7 +27,7 @@ def count_smileys(list):
     
     return count
 
-
+# Output test cases
 output = count_smileys([])
 print(f'Number of smileys: {output}')
 
